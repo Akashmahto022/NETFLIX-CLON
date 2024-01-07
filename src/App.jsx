@@ -9,9 +9,9 @@ import Login from './pages/login/Login'
 const App = () => {
   return (
     <div>
-      {/* <Home/> */}
-      {/* <Watch/> */}
-      {/* <Register/> */}
+      <Home/>
+      <Watch/>
+      <Register/>
       <Login/>
     </div>
   )
